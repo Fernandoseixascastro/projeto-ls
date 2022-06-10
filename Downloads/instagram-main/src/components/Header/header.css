@@ -1,0 +1,34 @@
+.Header {
+    background-color: var(--background);
+    border-bottom: 1px solid var(--border);
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    height: 10vh;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    
+    width: 250px;
+}
+/* 
+.Header .Container {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 60px;
+
+    max-width: 957px;
+    margin: 0 auto;
+    width: 90%;
+} */
